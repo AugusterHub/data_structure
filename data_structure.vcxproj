@@ -142,10 +142,14 @@
     <ClCompile Include="list_chain.c" />
     <ClCompile Include="list_order.c" />
     <ClCompile Include="main.c" />
+    <ClCompile Include="stack._order.c" />
+    <ClCompile Include="stack_chain.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="list_chain.h" />
     <ClInclude Include="list_order.h" />
+    <ClInclude Include="stack_chain.h" />
+    <ClInclude Include="stack_order.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

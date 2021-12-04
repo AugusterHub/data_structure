@@ -24,12 +24,24 @@
     <ClCompile Include="list_chain.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="stack._order.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stack_chain.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="list_order.h">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="list_chain.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stack_order.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stack_chain.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
